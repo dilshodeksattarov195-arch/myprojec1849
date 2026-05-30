@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersave",
+        "uuid": 16041924,
+        "checksum": "w9zb3k"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
